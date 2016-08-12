@@ -1,0 +1,6 @@
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\bin\Debug\Ben2048.exe.config
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\bin\Debug\Ben2048.exe
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\bin\Debug\Ben2048.pdb
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\obj\Debug\Ben2048.csprojResolveAssemblyReference.cache
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\obj\Debug\Ben2048.exe
+c:\users\benoit\documents\visual studio 2015\Projects\Ben2048\Ben2048\obj\Debug\Ben2048.pdb
